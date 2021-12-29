@@ -1,2 +1,2 @@
-# mod-repository
-A mod repository based on GitHub Pages.
+# Template Repository
+> A basic starter repository.
