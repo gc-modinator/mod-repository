@@ -1,0 +1,11 @@
+{
+    "data": {
+        "name": "example-repository",
+        "owner": "Example, example@example.com",
+        "website": "https://www.example.com"
+    },
+    "games": [{
+        "game": "game::version",
+        "path": "subrepo"
+    }]
+}

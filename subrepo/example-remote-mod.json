@@ -1,0 +1,5 @@
+{
+    "name": "Example Remote Mod",
+    "version": "1.0-SNAPSHOT",
+    "file": "ftp://example.com/example-remote-mod.zip"
+}
